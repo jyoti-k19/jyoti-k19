@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jyoti K
 
-**Software Feveloper | Backend & Frontend Developer | AI & ML Enthusiast**  
+**Software Developer | Backend & Frontend Developer | AI & ML Enthusiast**  
 Bengaluru, India  
 [jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com) 
 
