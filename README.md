@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jyoti K
 
-**Electronics & Communication Engineer | Backend & Frontend Developer | AI & ML Enthusiast**  
+**Software Feveloper | Backend & Frontend Developer | AI & ML Enthusiast**  
 Bengaluru, India  
 [jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com) 
 
@@ -82,7 +82,7 @@ Nitte Meenakshi Institute of Technology, Bangalore
 ## 📫 Contact Me
 
 - Email: [jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(update this link)*
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/jyotik) *(update this link)*
 
 ---
 
