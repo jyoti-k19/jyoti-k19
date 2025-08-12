@@ -2,7 +2,7 @@
 
 **Electronics & Communication Engineer | Backend & Frontend Developer | AI & ML Enthusiast**  
 Bengaluru, India  
-[jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com) | +91 63614 28948
+[jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com) 
 
 ---
 
@@ -82,7 +82,6 @@ Nitte Meenakshi Institute of Technology, Bangalore
 ## 📫 Contact Me
 
 - Email: [jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com)  
-- Phone: +91 63614 28948  
 - LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(update this link)*
 
 ---
