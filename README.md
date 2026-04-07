@@ -11,35 +11,7 @@ I am a passionate software engineer and data enthusiast with hands-on experience
 
 ---
 
-## 📊 Data & Analytics  
 
-- 📈 Data Analysis (EDA, data cleaning, transformation)  
-- 📊 Dashboarding & Visualization (Power BI, KPI tracking)  
-- 🗄️ SQL & Database Management (Joins, Window Functions, Optimization)  
-- 🔄 ETL Processes (Power Query, Data Pipelines)  
-- 📉 Business Insights (Inventory analysis, trend analysis, forecasting)  
-- 📌 Data Modeling & Reporting  
-
----
-
-## 🤖 AI / Machine Learning  
-
-- 🤖 Supervised & Unsupervised Learning  
-- 📊 Model Evaluation & Feature Engineering  
-- 🧠 ML Algorithms using Python  
-- 🔍 Real-world problem solving using ML  
-
----
-
-## 📈 Projects & Experience  
-
-- 📊 Built interactive **Power BI dashboards** for inventory & KPI tracking  
-- 🗄️ Developed **SQL-based reporting solutions**  
-- 📈 Performed **trend analysis (FY22–FY26)**  
-- 🔄 Automated workflows using **Power Query & Python**  
-- ⚙️ Worked on **real-time business data (Inventory Analysis)**  
-
----
 
 ## 🛠 Skills
 
@@ -109,6 +81,37 @@ I am a passionate software engineer and data enthusiast with hands-on experience
 
 
 
+
+---
+
+
+## 📊 Data & Analytics  
+
+- 📈 Data Analysis (EDA, data cleaning, transformation)  
+- 📊 Dashboarding & Visualization (Power BI, KPI tracking)  
+- 🗄️ SQL & Database Management (Joins, Window Functions, Optimization)  
+- 🔄 ETL Processes (Power Query, Data Pipelines)  
+- 📉 Business Insights (Inventory analysis, trend analysis, forecasting)  
+- 📌 Data Modeling & Reporting  
+
+---
+
+## 🤖 AI / Machine Learning  
+
+- 🤖 Supervised & Unsupervised Learning  
+- 📊 Model Evaluation & Feature Engineering  
+- 🧠 ML Algorithms using Python  
+- 🔍 Real-world problem solving using ML  
+
+---
+
+## 📈 Projects & Experience  
+
+- 📊 Built interactive **Power BI dashboards** for inventory & KPI tracking  
+- 🗄️ Developed **SQL-based reporting solutions**  
+- 📈 Performed **trend analysis (FY22–FY26)**  
+- 🔄 Automated workflows using **Power Query & Python**  
+- ⚙️ Worked on **real-time business data (Inventory Analysis)**  
 
 ---
 
