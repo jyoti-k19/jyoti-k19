@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jyoti K
 
-**Software Developer | Backend & Frontend Developer | AI & ML & Data Engineer Enthusiast | **  
+**Data Engineer Enthusiast | SQL | Power BI | AI & ML  | **  
 Bengaluru, India  
 [jyotikasinha21@gmail.com](mailto:jyotikasinha21@gmail.com) 
 
