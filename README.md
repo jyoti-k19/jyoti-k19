@@ -7,7 +7,37 @@ Bengaluru, India
 ---
 
 ## 🌱 About Me  
-I am a passionate software engineer with hands-on experience in backend & frontend development, AI/ML, and scalable system design. I love solving challenging problems and building innovative solutions that impact real-world applications.
+I am a passionate software engineer and data enthusiast with hands-on experience in backend & frontend development, **data analytics, and AI/ML**. I enjoy working with real-world datasets, building dashboards, and solving business problems using data-driven approaches.
+
+---
+
+## 📊 Data & Analytics  
+
+- 📈 Data Analysis (EDA, data cleaning, transformation)  
+- 📊 Dashboarding & Visualization (Power BI, KPI tracking)  
+- 🗄️ SQL & Database Management (Joins, Window Functions, Optimization)  
+- 🔄 ETL Processes (Power Query, Data Pipelines)  
+- 📉 Business Insights (Inventory analysis, trend analysis, forecasting)  
+- 📌 Data Modeling & Reporting  
+
+---
+
+## 🤖 AI / Machine Learning  
+
+- 🤖 Supervised & Unsupervised Learning  
+- 📊 Model Evaluation & Feature Engineering  
+- 🧠 ML Algorithms using Python  
+- 🔍 Real-world problem solving using ML  
+
+---
+
+## 📈 Projects & Experience  
+
+- 📊 Built interactive **Power BI dashboards** for inventory & KPI tracking  
+- 🗄️ Developed **SQL-based reporting solutions**  
+- 📈 Performed **trend analysis (FY22–FY26)**  
+- 🔄 Automated workflows using **Power Query & Python**  
+- ⚙️ Worked on **real-time business data (Inventory Analysis)**  
 
 ---
 
@@ -138,6 +168,16 @@ Nitte Meenakshi Institute of Technology, Bangalore
 - Machine Learning Certification – Infosys Springboard  
 - Software Development Virtual Experience Program – Walmart Global Tech (Forage)  
 - Data Engineer Virtual Experience Program – Tata Consultancy Services (Forage)
+
+---
+
+## 🚀 What I Bring  
+
+- 💡 Data-driven problem solving mindset  
+- 📊 Strong SQL + Power BI expertise  
+- 🔄 End-to-end data handling (raw → insights)  
+- ⚡ Ability to work with real business datasets  
+- 🧠 Blend of **Software + Data + ML skills**
 
 ---
 
